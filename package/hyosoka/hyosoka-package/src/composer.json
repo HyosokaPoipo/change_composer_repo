@@ -1,0 +1,14 @@
+{
+    "name": "hyosoka/hyosoka-package",
+    "description": "This is my first awesome package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hyosoka",
+            "email": "hyosoka187@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
