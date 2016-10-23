@@ -21,7 +21,7 @@
         ],
         "psr-4": {
             "App\\": "app/",
-            "hysoka\\hyosoka-package\\": "package/hyosoka/hyosoka-package/src"
+            "hyosoka\\hyosokaPackage\\": "packages/hyosoka/hyosokaPackage/src"
         }
     },
     "autoload-dev": {
