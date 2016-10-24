@@ -166,7 +166,7 @@ return [
         /*
          * Package Service Providers...
          */
-        hyosoka\hyosokaPackage\src\HyosokaServiceProvider::class,
+        App\packages\hyosoka\hyosokaPackage\src\HyosokaServiceProvider::class,
         //
 
         /*

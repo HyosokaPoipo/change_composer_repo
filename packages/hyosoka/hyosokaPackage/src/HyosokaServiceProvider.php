@@ -1,5 +1,5 @@
 <?php
-namespace hyosoka\hyosokaPackage;
+namespace App\packages\hyosoka\hyosokaPackage;
 
 use Illuminate\Support\ServiceProvider;
 
